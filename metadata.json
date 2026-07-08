@@ -1,0 +1,6 @@
+{
+  "name": "Commute Audio Summarizer",
+  "description": "Summarizes news articles into personalized audio updates for your commute.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
